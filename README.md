@@ -1,6 +1,10 @@
-- 📫 How to reach me: Shoot me an email yshan@bu.edu
+## 👋 About Me:
+I'm a Sophomore at Boston University majoring in Computer Science and Minoring in Business Administration. I'm Always curious about learning new things and diligent personality
+Passionate about Learning anything related to web development, and computer science-related fields.
 
-<!---
-nateEc/nateEc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Check out My personal Portfolio Website: https://cs-people.bu.edu/yshan/
+- reach me via email: yshan@bu.edu  
+
+
+[website]: https://cs-people.bu.edu/yshan/
+[linkedin]: [https://www.linkedin.com/in/pomerantzsam/](https://www.linkedin.com/in/yukun-nathan-shan-803a02225/)
