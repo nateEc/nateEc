@@ -8,3 +8,5 @@ Passionate about Learning anything related to web development, and computer scie
 
 [website]: https://cs-people.bu.edu/yshan/
 [linkedin]: [https://www.linkedin.com/in/pomerantzsam/](https://www.linkedin.com/in/yukun-nathan-shan-803a02225/)
+
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateEc)](https://github.com/anuraghazra/github-readme-stats)
