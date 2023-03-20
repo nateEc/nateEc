@@ -11,4 +11,3 @@ Passionate about Learning anything related to web development, and computer scie
 [linkedin]: [https://www.linkedin.com/in/pomerantzsam/](https://www.linkedin.com/in/yukun-nathan-shan-803a02225/)
 
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateEc&hide=contribs,prs&theme=shades-of-purple)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateEc)
