@@ -7,7 +7,7 @@ Passionate about Learning anything related to web development, and computer scie
 - 📫reach me via email: yshan@bu.edu  
 
 
-[website]: [https://cs-people.bu.edu/yshan/](https://nateec.github.io/)
+[website]: [https://nateec.github.io/](https://nateec.github.io/)
 [linkedin]: [https://www.linkedin.com/in/pomerantzsam/](https://www.linkedin.com/in/yukun-nathan-shan-803a02225/)
 
 
