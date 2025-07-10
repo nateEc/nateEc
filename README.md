@@ -21,8 +21,8 @@ Passionate about Learning anything related to web development and computer scien
 
 
 ## Profile Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=nateEc&show_icons=true&show_icons=true&theme=dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateEc&layout=compact&theme=dark&hide=css" height="150"></img>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nateEc&theme=monokai" />
 
 
 ## Connect with me:
