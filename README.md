@@ -14,7 +14,7 @@
 
 ## 👋 About Me:
 ![](https://komarev.com/ghpvc/?username=NateEc)\
-I'm an cs alumnus of Boston University, currently working as an algorithmic engineer in Shanghai. I'm always curious about learning new things.
+I'm an cs alumnus of Boston University, currently working as an AI engineer. I'm always curious about learning new things.
 Passionate about Learning anything related to web development and computer science-related fields.
 
 - 📫reach me via email: yshan@bu.edu  
