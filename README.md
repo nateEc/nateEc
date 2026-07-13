@@ -1,40 +1,29 @@
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+# Hi, I'm Nathan Shan 👋
 
-## 👋 About Me:
-![](https://komarev.com/ghpvc/?username=NateEc)\
-I'm an cs alumnus of Boston University, currently working as an AI engineer. I'm always curious about learning new things.
-Passionate about Learning anything related to web development and computer science-related fields.
+**AI Agent Engineer building reliable agent systems and production-ready AI applications.**
 
-- 📫reach me via email: yshan@bu.edu  
+I am a Boston University Computer Science alumnus. My work spans agent orchestration, skill and tool-use workflows, evaluation and regression pipelines, real-time voice experiences, and desktop applications.
 
+## What I work on
 
-## Profile Stats:
+- **Agent systems:** orchestration, tool use, skills, context and session management
+- **Reliability:** automated evaluation, regression testing, observability, and failure recovery
+- **AI applications:** voice-first products, browser agents, desktop apps, and full-stack delivery
+- **Engineering:** Python, TypeScript, FastAPI, React / React Native, Electron, PostgreSQL, and Redis
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nateEc&theme=monokai" />
+## Featured projects
 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Shortcutype](https://github.com/nateEc/Shortcutype) | Local-first keyboard shortcut recall trainer with adaptive scheduling and accessible, keyboard-driven practice | TypeScript, React, Vitest |
+| [yt-dub-studio](https://github.com/nateEc/yt-dub-studio) | Local AI pipeline for English-to-Chinese video dubbing with source-voice synthesis and optional lip sync | Python, Whisper, CosyVoice, Demucs, Wav2Lip |
+| [candidate-intel-agent](https://github.com/nateEc/candidate-intel-agent) | Local-first recruiting browser agent and searchable talent index with explicit human confirmation boundaries | Python, FastAPI, PostgreSQL, pgvector |
+| [DataFlow](https://github.com/nateEc/DataFlow) | AI-native spreadsheet editor for creating templates, formulas, and structured data through natural language | TypeScript, React, Vite |
 
-## Connect with me:
+## Connect
 
-[<img align="left" alt="codeSTACKr.com" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+- [Portfolio](https://nateec.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/yukun-shan-803a02225/)
+- [Email](mailto:yshan@bu.edu)
 
-
-
-<br>
-
-[website]: https://nateec.github.io/
-[linkedin]: https://www.linkedin.com/in/yukun-nathan-shan-803a02225/
-
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nateEc&theme=github_dark" alt="Nathan Shan's GitHub profile summary" />
