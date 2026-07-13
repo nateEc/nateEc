@@ -1,17 +1,33 @@
-# Hi, I'm Nathan Shan 👋
+<pre>
+      ___           ___           ___       ___       ___
+     /\__\         /\  \         /\__\     /\__\     /\  \
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /
+     \/__/         \/__/         \/__/     \/__/     \/__/
+</pre>
 
-**AI Agent Engineer building reliable agent systems and production-ready AI applications.**
+## 👋 About Me
 
-I am a Boston University Computer Science alumnus. My work spans agent orchestration, skill and tool-use workflows, evaluation and regression pipelines, real-time voice experiences, and desktop applications.
+![](https://komarev.com/ghpvc/?username=NateEc)
 
-## What I work on
+I'm a Boston University Computer Science alumnus and an **AI Agent Engineer** building reliable agent systems and production-ready AI applications.
 
-- **Agent systems:** orchestration, tool use, skills, context and session management
+My work spans:
+
+- **Agent systems:** orchestration, tool use, skills, context, and session management
 - **Reliability:** automated evaluation, regression testing, observability, and failure recovery
 - **AI applications:** voice-first products, browser agents, desktop apps, and full-stack delivery
 - **Engineering:** Python, TypeScript, FastAPI, React / React Native, Electron, PostgreSQL, and Redis
 
-## Featured projects
+- 📫 Reach me via email: [yshan@bu.edu](mailto:yshan@bu.edu)
+
+## Featured Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -20,10 +36,16 @@ I am a Boston University Computer Science alumnus. My work spans agent orchestra
 | [candidate-intel-agent](https://github.com/nateEc/candidate-intel-agent) | Local-first recruiting browser agent and searchable talent index with explicit human confirmation boundaries | Python, FastAPI, PostgreSQL, pgvector |
 | [DataFlow](https://github.com/nateEc/DataFlow) | AI-native spreadsheet editor for creating templates, formulas, and structured data through natural language | TypeScript, React, Vite |
 
-## Connect
+## Profile Stats
 
-- [Portfolio](https://nateec.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/yukun-shan-803a02225/)
-- [Email](mailto:yshan@bu.edu)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nateEc&theme=monokai" alt="Nathan Shan's GitHub profile summary" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nateEc&theme=github_dark" alt="Nathan Shan's GitHub profile summary" />
+## Connect with me
+
+[<img align="left" alt="Nathan Shan's portfolio" width="50px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
+[<img align="left" alt="Nathan Shan on LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br>
+
+[website]: https://nateec.github.io/
+[linkedin]: https://www.linkedin.com/in/yukun-shan-803a02225/
