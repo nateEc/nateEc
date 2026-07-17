@@ -27,6 +27,10 @@ My work spans:
 
 - 📫 Reach me via email: [yshan@bu.edu](mailto:yshan@bu.edu)
 
+### Open source
+
+I make occasional upstream contributions to [MetaBot](https://github.com/xvirobotics/metabot), mostly around reliability and security.
+
 ## Featured Projects
 
 | Project | What it does | Stack |
