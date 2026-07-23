@@ -29,7 +29,10 @@ My work spans:
 
 ### Open source
 
-I make occasional upstream contributions to [MetaBot](https://github.com/xvirobotics/metabot), mostly around reliability and security.
+I contribute upstream fixes around reliability, security, and cross-platform desktop behavior.
+
+- **[MetaBot](https://github.com/xvirobotics/metabot)** — merged fixes across direct-message invariants, skill bundle safety, managed-file path traversal, and installer state.
+- **[t3code](https://github.com/pingdotgg/t3code)** — merged fixes for [stale OpenCode model restoration (#4095)](https://github.com/pingdotgg/t3code/pull/4095) and [Windows desktop scrollbar / resize-edge behavior (#4097)](https://github.com/pingdotgg/t3code/pull/4097).
 
 ## Featured Projects
 
